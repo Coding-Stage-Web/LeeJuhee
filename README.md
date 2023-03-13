@@ -1,2 +1,2 @@
 # LeeJuhee
-무형의 가치를 현실로 만들어내는 FE가 되고 싶은 이주희입니다👩🏻‍💻
+<img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300" />
