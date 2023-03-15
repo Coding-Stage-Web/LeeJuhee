@@ -1,9 +1,9 @@
 # LeeJuhee
 <img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300" />
 
-## 💫 FRONTEND 과제(지난번에 했던거 RENEWAL)
+## 💫 FRONTEND 과제
 
-|**week**|과제주제|과제링크(week브랜치링크첨부)|
+|**week**|과제주제|과제링크|
 |:---:|:---:|:---:|
 |1주차||링크1|
 |2주차||링크2|
