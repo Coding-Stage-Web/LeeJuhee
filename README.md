@@ -1,15 +1,3 @@
-# LeeJuhee
-<img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300"/>
-
-## 💫 FRONTEND 과제
-
-|**week**|학습내용|학습정리링크|과제주제|과제링크|
-|:---:|:---:|:---:|:---:|:---:|
-|1주차|1.React.js 시작하기 ~ 2.React.js 기초 다지기(ch.20)|[1장 정리](https://velog.io/@049494/1-React.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0), [2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)|주제|링크|
-|2주차|내용|링크|주제|링크|
-|3주차|내용|링크|주제|링크|
-|4주차|내용|링크|주제|링크|
-|5주차|내용|링크|주제|링크|
-|6주차|내용|링크|주제|링크|
-|7주차|내용|링크|주제|링크|
-|8주차|내용|링크|주제|링크|
+# 📌 week1 과제 
+### props, 생명주기함수 실습
+![스크린샷 2023-03-25 오후 2 31 22](https://user-images.githubusercontent.com/104717341/227699893-db2c9371-7874-4f67-a14c-de69661afd88.png)
