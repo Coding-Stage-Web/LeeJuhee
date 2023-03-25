@@ -3,9 +3,9 @@
 
 ## 💫 FRONTEND 과제
 
-|**week**|학습내용|학습정리링크|과제주제|과제링크|
+|**week**|학습내용|학습정리|과제주제|과제링크|
 |:---:|:---:|:---:|:---:|:---:|
-|1주차|1.React.js 시작하기 ~ 2.React.js 기초 다지기(ch.20)|[1장 정리](https://velog.io/@049494/1-React.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0), [2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)|주제|링크|
+|1주차|1.React.js 시작하기 ~ 2.React.js 기초 다지기(ch.20)|[1장 정리](https://velog.io/@049494/1-React.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0), [2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)|props,lifecycle|https://github.com/Coding-Stage-Web/LeeJuhee/tree/week1|
 |2주차|내용|링크|주제|링크|
 |3주차|내용|링크|주제|링크|
 |4주차|내용|링크|주제|링크|
