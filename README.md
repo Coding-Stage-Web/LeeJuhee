@@ -1,15 +1,68 @@
-# LeeJuhee
-<img src="https://user-images.githubusercontent.com/93020734/224777742-97b438df-9d86-4d46-b880-7b039a54bacc.png" width = "600" height="300"/>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 💫 FRONTEND 과제
+## Available Scripts
 
-|**week**|학습내용|학습정리|과제주제|과제링크|
-|:---:|:---:|:---:|:---:|:---:|
-|1주차|1.React.js 시작하기 ~ 2.React.js 기초 다지기(ch.01 ~ ch.20)|[1장 정리](https://velog.io/@049494/1-React.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0), [2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)|props,lifecycle|https://github.com/Coding-Stage-Web/LeeJuhee/tree/week1|
-|2주차|2.React.js 기초 다지기(ch.21 ~ ch.40)|[2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0)|state,hook,reactstrap|https://github.com/Coding-Stage-Web/LeeJuhee/tree/week2|
-|3주차|2.React.js 기초 다지기(ch.41 ~ ch.60)|[2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0#-sweetalert2)|sweetalert2, fetch|https://github.com/Coding-Stage-Web/LeeJuhee/tree/week3|
-|4주차|2.React.js 기초 다지기 ~ 3.React.js 주요 개념 이해하기(ch.61 ~ ch.80)|[2장 정리](https://velog.io/@049494/2-React.js-%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%A7%80%EA%B8%B0), [3장 정리](https://velog.io/@049494/3-React.js-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)|axios, event, context api|링크|
-|5주차|3.React.js 주요 개념 이해하기 ~ 4.React.js 외부 api 활용하기(ch.81 ~ ch.100)|[3장 정리](https://velog.io/@049494/3-React.js-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0), [4장 정리](https://velog.io/@049494/4-React.js-%EC%99%B8%EB%B6%80-api-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)|redux, cookie, router|링크|
-|6주차|내용|링크|주제|링크|
-|7주차|내용|링크|주제|링크|
-|8주차|내용|링크|주제|링크|
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
